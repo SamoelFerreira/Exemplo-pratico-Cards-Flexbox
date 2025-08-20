@@ -27,7 +27,8 @@
 }
 
 .container {
-    max-width: 1024px;
+    max-width: 1440px;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
